@@ -1,4 +1,4 @@
-# DataWarehouse_project
+
 # 📊 Data Warehouse and Analytics Project
 
 This project demonstrates an **end-to-end data warehousing and analytics solution** — from raw data ingestion to business-ready insights.  
