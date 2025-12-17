@@ -1,7 +1,7 @@
 
 # 📊 Data Warehouse and Analytics Project
 
-This project demonstrates an **end-to-end data warehousing and analytics solution** — from raw data ingestion to business-ready insights.  
+This project demonstrates an **end-to-end data warehousing and analytics solution** from raw data ingestion to business-ready insights.  
 It is designed as a **portfolio project** showcasing skills in **Data Engineering, SQL Development, ETL Pipelines, Data Modeling, and Analytics** using industry best practices.
 
 ---
